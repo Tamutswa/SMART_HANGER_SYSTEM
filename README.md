@@ -58,7 +58,7 @@ The **SMART HANGER SYSTEM** uses a mix of IoT sensors and a web-based interface 
 
 ## 🖼️ System Demo
 
-![System Demo](images/system_demo.jpg.pgn)
+![System Demo](images/system_demo.jpg)
 
 ---
 
