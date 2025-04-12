@@ -105,7 +105,7 @@ If you’d like to help, simply fork the repository and submit a pull request. P
 
 **Tamutswa Matondo**  
 Frontend Developer | Embedded Systems Enthusiast  
-📧 [tamutswamatondo04@gmail.com](mailto:tamutswamatondo04@gmail.com)  
+📧 [Email](mailto:tamutswamatondo04@gmail.com)  
 📞 +263 783 597 194 | +263 717 029 585  
 🔗 [GitHub Profile](https://github.com/Tamutswa)
 
