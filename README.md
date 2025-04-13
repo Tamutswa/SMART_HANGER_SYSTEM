@@ -42,7 +42,7 @@ Welcome to the **SMART HANGER SYSTEM**! This innovative solution is designed to 
 - NodeMCU / MicroPython (optional alternative for control logic)
 
 ## 📁 Project Structure
-``` SMART_HANGER_SYSTEM/ ├── hardware/ │ └── circuit_diagram.fzz # Fritzing diagrams and schematics ├── firmware/ │ └── smart_hanger.ino # Arduino sketch for ESP32 ├── web/ │ ├── index.html # Main dashboard interface │ ├── style.css # Styling for UI │ └── script.js # JavaScript to handle logic ├── images/ │ └── system_demo.jpg # Demo image of system ├── README.md └── LICENSE ``` 
+``` SMART_HANGER_SYSTEM/ ├── firmware/ │ └── smart_hanger.ino # Arduino sketch for ESP32 ├── frontend/ │ ├── index.html # Main dashboard interface │ ├── style.css # Styling for UI │ └── script.js # JavaScript to handle logic ├── backend/ │ └── load_inventory.php # Code base for architectural system └── update_inventory # Inventory real time-tracking codebase ├── images/ │ └── system_demo.jpg # Demo image of system ├── README.md └── LICENSE ``` 
 
 
 ---
@@ -120,7 +120,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 This project would not have been possible without the guidance, support, and inspiration of several individuals and resources:
 
-- 👨‍🏫 **Lecturers and Mentors** at the National University of Science and Technology for their continuous support and feedback.
+- 👨‍🏫 **Lecturers and Mentors** at the National University of Science and Technology in Zimbabwe for their continuous support and feedback.
 - 💻 Open-source communities and contributors whose libraries and documentation made development smoother.
 - 🧠 Friends and peers who provided valuable input, testing, and encouragement throughout the project journey.
 - 🌍 The GitHub and Stack Overflow communities for being endless wells of technical knowledge and help.
